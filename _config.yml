@@ -23,9 +23,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    #twitter: thelehhman
+    twitter: thelehhman
     github:  thelehhman
-    #linkedIn: in/thelehhman
+    linkedIn: in/thelehhman
     rss: rss
  
 remote_theme: samarsault/texture
